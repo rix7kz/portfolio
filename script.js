@@ -23,7 +23,6 @@ videoList.forEach (function(video){
 })
 })
 
-// Sidebar elements //
 menu.addEventListener("click", function(){
     sideBar.classList.remove("close-sidebar")
     sideBar.classList.add("open-sidebar")
