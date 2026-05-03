@@ -882,7 +882,7 @@ header ul a:hover{
     }
 }
 
-/* Sidebar close ANimation */
+
 
 .sidebar.close-sidebar{
     animation: closeSideBarAnimation 1.5s forwards;
